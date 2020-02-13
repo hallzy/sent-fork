@@ -1,4 +1,4 @@
-sent is a simple plaintext presentation tool.
+# sent is a simple plaintext presentation tool.
 
 sent does not need latex, libreoffice or any other fancy file format, it uses
 plaintext files to describe the slides and can include images via farbfeld.
@@ -7,6 +7,10 @@ Every paragraph represents a slide in the presentation.
 The presentation is displayed in a simple X11 window. The content of each slide
 is automatically scaled to fit the window and centered so you also don't have to
 worry about alignment. Instead you can really concentrate on the content.
+
+## Custom Changes
+
+* Foreground and background colours changed in the config.h
 
 
 Dependencies
