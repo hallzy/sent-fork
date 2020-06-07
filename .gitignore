@@ -26,3 +26,5 @@
 # vim
 *.swp
 *~
+
+config.h
